@@ -1,0 +1,250 @@
+body
+{
+  margin:0;
+  text-align: center;
+  	font-family: 'merriweather', serif;
+  	background-color: #c6ebc9;
+  	color:#40514E;
+  	
+
+
+
+}
+
+h1
+{
+	margin: 50px auto 0 auto;
+	padding-top:160px;
+	font-family: sacramento, cursive;
+	font-size: 5.625rem;
+	color:  #66BFBF;
+
+}
+
+h1:hover
+{
+	color:yellow;
+}
+
+h2
+{
+	font-family: 'Montserrat', sans-serif;
+	font-size: 2.5rem;
+	color:  #66BFBF;
+
+}
+
+h3
+{
+	font-family: 'Montserrat', sans-serif;
+	color: #11999E;
+	font-size: 2rem;
+}
+
+.first
+{
+	background-color: #c6ebc9;
+	color: #66BFBF;
+	font-size: 2.25rem;
+}
+
+.middle-container
+{
+	
+	margin-top: 50px;
+	line-height: 2;
+	margin-bottom: 50px;
+	
+}
+
+.bottom-container
+{
+	
+	
+	background-color: #4CAF50;
+	padding: 50px 0 20px;
+	
+	
+
+}
+
+.pro
+{
+	text-decoration: underline;
+	color:  #66BFBF;
+	font-size: 3.25rem;
+
+}
+
+.bottom-cloud
+{
+	position: absolute;
+	left:250px;
+
+}
+
+.top-cloud
+{
+	position: absolute;
+	margin-left: 180px;
+	top:50px;
+}
+
+.image-small
+{
+	height: 200px;
+	width: 200px;
+}
+
+.webd
+{
+	height: 200px;
+	width: 200px;
+}
+
+.skill-row
+{
+	width: 60%;
+	margin: 50px auto 50px auto;
+	text-align: left;
+	line-height: 2;
+
+
+}
+
+.code-img
+{
+ width: 25%;
+ float: left;
+ margin-right: 30px;
+}
+
+.chilli-img
+{
+ width: 25%;
+ float:right;
+ margin-left: 30px;
+}
+
+
+hr
+{
+	background-color: white;
+	border-style: dotted none none;
+	border-style: gray;
+	border-width: 5px;
+	width: 3%;
+}
+h4
+{
+
+	font-family: 'Montserrat', sans-serif;
+	font-size: 1rem;
+	font-weight: bold;
+}
+
+.skills
+{
+	margin-top: 50px;
+}
+.contact-me
+{
+	margin-top: 50px;
+
+}
+
+.btn
+{
+	
+	color: white;
+	font-weight: bold;
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 12px;
+  margin-bottom: 30px;
+  
+
+}
+
+.footer-link{
+	
+	color: white;
+	font-weight: bold;
+  background-color: #4CAF50;
+  border: 50px;
+  color: white;
+  padding: 50px 35px;
+
+  font-size: 20px;
+  margin: 20px 20px;
+  cursor: pointer;
+  text-decoration-line: none;
+}
+
+.copy1
+{
+	margin-top: 20px;
+	border:none;
+	color: white;
+	font-size: 0.9rem;
+	padding: 20px 0;
+	
+}
+
+.con
+{
+	text-align: center;
+	color:blue;
+	background-color: #c6ebc9;
+
+}
+
+.bt
+{
+	color: white;
+	font-weight: bold;
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 2px 2px;
+  cursor: pointer;
+  border-radius: 12px;
+  margin-bottom: 30px;
+
+}
+
+.profile
+{
+	
+	margin: auto;
+	width: 60%;
+}
+
+.btn:hover
+{
+	color: yellow;
+}
+
+.footer-link:hover
+{
+	color: yellow;
+}
+
+hr:hover
+{
+	color:yellow;
+}
+
